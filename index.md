@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is a test page
 
 You can use the [editor on GitHub](https://github.com/WarrenDovey/didactic-enigma/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
